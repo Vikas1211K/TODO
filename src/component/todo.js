@@ -56,7 +56,7 @@ const Todo = () => {
                         
                     </div>
                     <div className="showItem">
-                        <button className="btn btn-primary" onClick={delAll}>Remove All</button>
+                        <button className="btn btn-warning" onClick={delAll}>Remove All</button>
                     </div>
                 </div>
             </div>
